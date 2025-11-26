@@ -4,6 +4,13 @@ function Card(){
     { id: 1, name: 'Server 1', location: 'New York', type: 'Production', password: 'pass123' },
     { id: 2, name: 'Server 2', location: 'London', type: 'Staging', password: 'secret456' },
     { id: 3, name: 'Server 3', location: 'Tokyo', type: 'Development', password: 'dev789' },
+    { id: 4, name: 'Server 1', location: 'New York', type: 'Production', password: 'pass123' },
+    { id: 5, name: 'Server 2', location: 'London', type: 'Staging', password: 'secret456' },
+    { id: 6, name: 'Server 3', location: 'Tokyo', type: 'Development', password: 'dev789' },
+    { id: 7, name: 'Server 1', location: 'New York', type: 'Production', password: 'pass123' },
+    { id: 8, name: 'Server 2', location: 'London', type: 'Staging', password: 'secret456' },
+    { id: 9, name: 'Server 3', location: 'Tokyo', type: 'Development', password: 'dev789' },
+    { id: 10, name: 'Server 3', location: 'Tokyo', type: 'Development', password: 'dev789' },
   ];
 
     return <>
